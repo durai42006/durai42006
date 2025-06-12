@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm DURAIMURUGAN
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Full Stack Development**
