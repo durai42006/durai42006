@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌱 I’m currently learning **Full Stack Development**
 - 💬 Ask me about **React, Node.js, MongoDB, SQL, C#**
-- 🔭 I’m working on [Project Name](link)
+- 🔭 I’m working on Gislen Software company
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 ---
