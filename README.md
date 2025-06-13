@@ -22,3 +22,19 @@ I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and S
 [![](https://visitcount.itsvg.in/api?id=durai42006&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🎮 Gamer & Coder
+
+```
+        _______
+       /       \
+      |  (•) (•) |
+      |     ▄     |
+       \  ---  /
+        \_____/
+      Gamer Mode: ON
+```
+
+> Leveling up in code and games, one commit at a time!  
+> Favorite games: Pong, Pac-Man, and anything with a high score.
