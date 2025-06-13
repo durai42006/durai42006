@@ -24,17 +24,3 @@ I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and S
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 🎮 Gamer & Coder
-
-```
-        _______
-       /       \
-      |  (•) (•) |
-      |     ▄     |
-       \  ---  /
-        \_____/
-      Gamer Mode: ON
-```
-
-> Leveling up in code and games, one commit at a time!  
-> Favorite games: Pong, Pac-Man, and anything with a high score.
