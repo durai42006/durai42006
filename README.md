@@ -22,6 +22,7 @@ I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and S
 [![](https://visitcount.itsvg.in/api?id=durai42006&icon=6&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=durai42006&bg_color=050505&color=17bee8&line=00ff1e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
