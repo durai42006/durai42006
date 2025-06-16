@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and SQL Server.<br><br>I know the C<Java>React>Kotlin<HTML<CSS<Javascript.
+I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and SQL Server.<br><br>I know the Java>C>React>Kotlin<HTML<CSS<Javascript.
 
 
 ## 🌐 Socials:
