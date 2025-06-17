@@ -1,8 +1,5 @@
 <p align="center">
-  <img src="Naruto.png" alt="Image 1" width="200px" style="margin: 10px;" />
-  <img src="Rocklee.png" alt="Image 1" width="200px" style="margin: 10px;" />
-   <img src="MightGuy.png" alt="Image 1" width="200px" style="margin: 10px;" />
-   <img src="Kakashi.png" alt="Image 1" width="200px" style="margin: 10px;" />
+  <img src="CodeCoffee.png" alt="Image 1" width="400px" style="margin: 10px;  height:300px" />
 </p>
 
 
