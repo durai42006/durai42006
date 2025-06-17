@@ -2,6 +2,14 @@
   <img src="CodeCoffee.png" alt="Image 1" width="400px" style="margin: 10px;  height:300px" />
 </p>
 
+<div style="border: 2px solid #554837; border-radius: 10px; padding: 16px; margin: 20px 0; background-color: #f9f9f9;">
+  <p align="center" style="color:#333; font-weight:bold; font-size: 16px; margin: 0;">
+     “Mastering C# and SQL is not about syntax — it's about thinking like a system. You're on that path.”
+  </p>
+</div>
+
+<hr style="border: none; border-top: 2px solid #ccc; margin-top: 30px;" />
+
 
 
 
