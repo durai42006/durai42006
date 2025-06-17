@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="Naruto.png" alt="Image 1" width="200px" style="margin: 10px;" />
+  <img src="Naruto.png" alt="Image 1" width="200px" style="margin: 10px;" />
+   <img src="Naruto.png" alt="Image 1" width="200px" style="margin: 10px;" />
+   <img src="Naruto.png" alt="Image 1" width="200px" style="margin: 10px;" />
+</p>
+
+
+
+
 # 💫 About Me:
 I am Duraimurugan and trainee at Gislen software.<br><br>I am well good C# and SQL Server.<br><br>I know the Java>C>React>Kotlin<HTML<CSS<Javascript.
 
